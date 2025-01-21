@@ -1,0 +1,10 @@
+﻿@page "/counter"
+@inject ILogger<Counter> logger;
+
+
+<h1>Counter</h1>
+
+<p role="status">Current count: @vm.currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+

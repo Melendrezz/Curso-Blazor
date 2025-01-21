@@ -1,0 +1,1 @@
+C:\Users\Siste\blazor5dotnet\publish\web.config
